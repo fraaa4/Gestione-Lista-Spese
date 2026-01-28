@@ -1,0 +1,3 @@
+# Database SQLite e SQLite3 app
+*.db
+sqlite3.exe
