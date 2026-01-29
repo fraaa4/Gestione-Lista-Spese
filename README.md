@@ -28,7 +28,7 @@ Dopo aver scaricato il file .zip:
 Terminale:
 ```bash
 sqlite3 (nomedb)
-read (nome del file.sql)
+.read (nome del file.sql)
 ```
 
 ## Avvio dell'applicazione in locale
